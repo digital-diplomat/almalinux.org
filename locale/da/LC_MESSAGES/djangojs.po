@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-16 21:25+0000\n"
-"PO-Revision-Date: 2023-03-01 08:42+0000\n"
+"PO-Revision-Date: 2023-03-02 09:39+0000\n"
 "Last-Translator: Jonas Højer <weblate@jonashojer.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/almalinux/"
 "website-frontend/da/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-rc\n"
+"X-Generator: Weblate 4.16\n"
 
 #: frontend/src/common/js/main.js:7
 msgid "Hello World"
@@ -30,11 +30,11 @@ msgstr "er ikke et endeligt tal"
 #: tmp/node_modules/webidl-conversions/lib/index.js:172
 #: tmp/node_modules/webidl-conversions/lib/index.js:188
 msgid "is not a finite floating-point value"
-msgstr ""
+msgstr "er ikke den endelige flydende komma-værdi"
 
 #: tmp/node_modules/webidl-conversions/lib/index.js:198
 msgid "is outside the range of a single-precision floating-point value"
-msgstr ""
+msgstr "er uden for intervallet for en flydende komma-værdi med en præcision"
 
 #: tmp/node_modules/webidl-conversions/lib/index.js:228
 msgid "is a symbol, which cannot be converted to a string"
