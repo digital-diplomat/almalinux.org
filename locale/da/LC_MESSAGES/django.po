@@ -3,28 +3,29 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-16 21:25+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-03-02 09:39+0000\n"
+"Last-Translator: Jonas Højer <weblate@jonashojer.dk>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/almalinux/"
+"website-backend/da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16\n"
 
 #: commons/templatetags/motd.py:39
 msgid "Read more"
-msgstr ""
+msgstr "Læs mere"
 
 #: www/templates/404.html:4
 msgid "404 Not Found - AlmaLinux OS"
-msgstr ""
+msgstr "404 Ikke Fundet - AlmaLinux OS"
 
 #: www/templates/404.html:6 www/templates/blog/index.html:10
 #: www/templates/blog/post.html:10 www/templates/index.html:8
@@ -36,7 +37,7 @@ msgstr ""
 
 #: www/templates/404.html:13
 msgid "404 Not Found"
-msgstr ""
+msgstr "404 Ikke fundet"
 
 #: www/templates/404.html:16
 msgid "Sorry, but the page you were trying to access could not be found."
@@ -60,15 +61,15 @@ msgstr ""
 
 #: www/templates/_partial/footer.html:17
 msgid "Downloads"
-msgstr ""
+msgstr "Overførelser"
 
 #: www/templates/_partial/footer.html:18 www/templates/_partial/navbar.html:57
 msgid "Membership"
-msgstr ""
+msgstr "Medlemsskab"
 
 #: www/templates/_partial/footer.html:19 www/templates/_partial/navbar.html:62
 msgid "ELevate"
-msgstr ""
+msgstr "ELevate"
 
 #: www/templates/_partial/footer.html:20 www/templates/_partial/navbar.html:67
 msgid "Mailing Lists"
@@ -76,11 +77,11 @@ msgstr ""
 
 #: www/templates/_partial/footer.html:24
 msgid "Community"
-msgstr ""
+msgstr "Fællesskab"
 
 #: www/templates/_partial/footer.html:26
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: www/templates/_partial/footer.html:27
 msgid "Forums"
@@ -124,11 +125,11 @@ msgstr ""
 
 #: www/templates/_partial/navbar.html:26
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: www/templates/_partial/navbar.html:47
 msgid "Migrate from CentOS 8"
-msgstr ""
+msgstr "Migrer fra CentOS 8"
 
 #: www/templates/_partial/navbar.html:52
 msgid "Report Bugs"
@@ -136,19 +137,19 @@ msgstr ""
 
 #: www/templates/_partial/navbar.html:75
 msgid "Shop"
-msgstr ""
+msgstr "Butik"
 
 #: www/templates/_partial/navbar.html:83
 msgid "Language"
-msgstr ""
+msgstr "Sprog"
 
 #: www/templates/_partial/navbar.html:107
 msgid "Translate"
-msgstr ""
+msgstr "Oversæt"
 
 #: www/templates/_partial/navbar.html:115 www/templates/index.html:52
 msgid "Download"
-msgstr ""
+msgstr "Overfør"
 
 #: www/templates/blog/index.html:8
 msgid "AlmaLinux OS Blog"
@@ -156,15 +157,15 @@ msgstr ""
 
 #: www/templates/blog/index.html:51
 msgid "Continue reading"
-msgstr ""
+msgstr "Forsæt læsning"
 
 #: www/templates/blog/index.html:64 www/templates/blog/index.html:70
 msgid "Previous"
-msgstr ""
+msgstr "Forrige"
 
 #: www/templates/blog/index.html:82 www/templates/blog/index.html:88
 msgid "Next"
-msgstr ""
+msgstr "Næste"
 
 #: www/templates/contribute/index.html:6
 msgid "AlmaLinux OS - Contribute"
@@ -190,23 +191,23 @@ msgstr ""
 
 #: www/templates/contribute/index.html:43
 msgid "General chat"
-msgstr ""
+msgstr "Generel Chat"
 
 #: www/templates/contribute/index.html:48
 msgid "Development"
-msgstr ""
+msgstr "Udvikling"
 
 #: www/templates/contribute/index.html:53
 msgid "Infrastructure"
-msgstr ""
+msgstr "Infrastruktur"
 
 #: www/templates/contribute/index.html:58
 msgid "Security"
-msgstr ""
+msgstr "Sikkerhed"
 
 #: www/templates/contribute/index.html:63
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentation"
 
 #: www/templates/contribute/index.html:68
 msgid "Marketing"
@@ -218,11 +219,11 @@ msgstr ""
 
 #: www/templates/contribute/index.html:82
 msgid "Join AlmaLinux OS community chat"
-msgstr ""
+msgstr "Forbind til AlmaLinux OS fælleschat"
 
 #: www/templates/elevate/index.html:6
 msgid "AlmaLinux OS - ELevate Your Distribution"
-msgstr ""
+msgstr "AlmaLinux OS - ELevate Din Distribution"
 
 #: www/templates/elevate/index.html:8
 msgid ""
@@ -242,15 +243,15 @@ msgstr ""
 
 #: www/templates/elevate/index.html:37
 msgid "Get Started"
-msgstr ""
+msgstr "Kom i gang"
 
 #: www/templates/elevate/index.html:42
 msgid "Discuss"
-msgstr ""
+msgstr "Diskuter"
 
 #: www/templates/elevate/index.html:58
 msgid "About"
-msgstr ""
+msgstr "Omkring"
 
 #: www/templates/elevate/index.html:63
 msgid "Major Version Upgrades"
@@ -293,7 +294,7 @@ msgstr ""
 
 #: www/templates/elevate/index.html:112
 msgid "What is ELevate?"
-msgstr ""
+msgstr "Hvad er ELevate?"
 
 #: www/templates/elevate/index.html:117
 msgid ""
@@ -318,19 +319,24 @@ msgstr ""
 
 #: www/templates/elevate/index.html:143
 msgid "Is this ready for production?"
-msgstr ""
+msgstr "Er det her klar til produktion?"
 
 #: www/templates/elevate/index.html:148
+#, fuzzy
 msgid ""
 "YMMV.  Every environment is different and unique based on applications and "
 "configurations. Since this is still under development, to avoid any "
 "surprises, we highly recommend that you test migrations scenarios in a VM or "
 "sandbox before running a migration in production."
 msgstr ""
+"YMMV.  Hvert miljø er anderledes og unikt baseret på applikationer og "
+"konfigurationer. Da dette stadig er under udvikling, anbefaler vi stærkt, at "
+"du tester migrationsscenarier i en VM eller sandkasse, før du kører en "
+"migration i produktion, for at undgå overraskelser."
 
 #: www/templates/elevate/index.html:158
 msgid "What operating systems does ELevate support?"
-msgstr ""
+msgstr "Hvilke operativsystemer understøtter ELevate?"
 
 #: www/templates/elevate/index.html:163
 msgid ""
@@ -345,7 +351,7 @@ msgstr ""
 
 #: www/templates/elevate/index.html:182
 msgid "Yes. All your data, applications and settings will be kept."
-msgstr ""
+msgstr "Ja, alle dine data, applikationer og indstillinger vil blive gemt."
 
 #: www/templates/elevate/index.html:190
 msgid "Is this live or does it require a reboot?"
@@ -353,7 +359,7 @@ msgstr ""
 
 #: www/templates/elevate/index.html:195
 msgid "Migrations will require your system to reboot twice."
-msgstr ""
+msgstr "Migrering kræver at dit system genstartes to gange."
 
 #: www/templates/elevate/index.html:203
 msgid "What does the Package Evolution Service do?"
@@ -383,15 +389,15 @@ msgstr ""
 
 #: www/templates/elevate/index.html:234
 msgid "What license is your metadata under?"
-msgstr ""
+msgstr "Hvilken licens er dit metadata under?"
 
 #: www/templates/elevate/index.html:239
 msgid "The metadata is provided under an Apache License."
-msgstr ""
+msgstr "Metadata er udgivet under et Apache License."
 
 #: www/templates/elevate/index.html:247
 msgid "Why are you supporting migration to other distributions?"
-msgstr ""
+msgstr "Hvorfor understøtter i migrering til andre distributioner?"
 
 #: www/templates/elevate/index.html:252
 msgid ""
@@ -404,7 +410,7 @@ msgstr ""
 #: www/templates/foundation/members/index.html:6
 #: www/templates/foundation/members/index.html:7
 msgid "AlmaLinux OS Foundation - membership"
-msgstr ""
+msgstr "AlmaLinux OS Foundation - medlemskab"
 
 #: www/templates/foundation/members/index.html:21
 msgid "Join the AlmaLinux OS Foundation"
@@ -418,7 +424,7 @@ msgstr ""
 
 #: www/templates/foundation/members/index.html:32
 msgid "Apply for membership"
-msgstr ""
+msgstr "Ansøg for medlemskab"
 
 #: www/templates/foundation/members/index.html:41
 msgid ""
@@ -457,7 +463,7 @@ msgstr ""
 #: www/templates/foundation/members/index.html:103
 #: www/templates/foundation/members/index.html:121
 msgid "Apply"
-msgstr ""
+msgstr "Anvend"
 
 #: www/templates/foundation/members/index.html:90
 msgid "Mirror Member"
@@ -485,7 +491,7 @@ msgstr ""
 
 #: www/templates/foundation/members/index.html:132
 msgid "Contact us"
-msgstr ""
+msgstr "Kontakt os"
 
 #: www/templates/foundation/members/index.html:141
 msgid "Board of Directors"
